@@ -1,1 +1,2 @@
 # IoT-Agriculture-Monitoring-System
+# This IoT-based system monitors soil moisture, temperature, humidity, and light intensity. When moisture drops below a set threshold, it automatically activates a solenoid valve to water the plants. A vibration sensor detects movement or disturbances from animals or rodents around the plantation. The solution is suitable for indoor plants, greenhouses, and regular farming, and uses the Adafruit IoT platform for real-time online monitoring.
